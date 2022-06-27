@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T09:19:10.123Z" agent="5.0 (X11)" etag="-s54tad3rZRpbM6W6846" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T09:23:44.875Z" agent="5.0 (X11)" etag="Ez4i-dkq9muCO1jJkRHg" version="18.0.7" type="github">
   <diagram name="feature_tracker" id="0iVlG7tezYv5LOxb0QvU">
     <mxGraphModel dx="2862" dy="1517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ofToJJIBVl73OULYjI8x-34" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="ofToJJIBVl73OULYjI8x-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-780" y="550" width="1570" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="ofToJJIBVl73OULYjI8x-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="ofToJJIBVl73OULYjI8x-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-780" y="-90" width="1570" height="620" as="geometry" />
         </mxCell>
         <mxCell id="QfUjRXZaHYbQl4VEjJVI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -154,7 +154,7 @@
         <mxCell id="QfUjRXZaHYbQl4VEjJVI-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="QfUjRXZaHYbQl4VEjJVI-53" target="QfUjRXZaHYbQl4VEjJVI-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QfUjRXZaHYbQl4VEjJVI-53" value="The issue is solved" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="QfUjRXZaHYbQl4VEjJVI-53" value="The feature is implemented" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="290" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QfUjRXZaHYbQl4VEjJVI-54" value="No" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QfUjRXZaHYbQl4VEjJVI-48" target="QfUjRXZaHYbQl4VEjJVI-50" edge="1">
@@ -202,7 +202,7 @@
         <mxCell id="QfUjRXZaHYbQl4VEjJVI-63" value="A feature branch is alread linked with the feature card ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="110" y="940" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QfUjRXZaHYbQl4VEjJVI-64" value="A feature branch is already treating the issue ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="QfUjRXZaHYbQl4VEjJVI-64" value="A feature branch is already implementing the feature ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="30" y="690" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QfUjRXZaHYbQl4VEjJVI-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
@@ -311,7 +311,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ofToJJIBVl73OULYjI8x-32" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Feature card a&lt;/b&gt; is implemented by the &lt;b&gt;branch feature/foo&lt;/b&gt;.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Feature card b&lt;/b&gt;&amp;nbsp;is implemented by &lt;b&gt;2 branches: feature/foo and feature/bar&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Branch feature/foo &lt;/b&gt;serves 3 &lt;b&gt;feature cards &lt;/b&gt;: &lt;b&gt;a, b and c&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#82b366;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="120" width="290" height="155" as="geometry" />
+          <mxGeometry x="460" y="142.5" width="290" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
